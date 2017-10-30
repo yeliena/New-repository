@@ -1,2 +1,2 @@
 # New-repository
-Very new repository
+Это новое изменение при создании второй ветви.
